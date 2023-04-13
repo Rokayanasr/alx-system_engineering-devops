@@ -1,6 +1,5 @@
 #!/bin/bash
 
-echo "file name"
 read filename
 
 pwd "${filename}"
