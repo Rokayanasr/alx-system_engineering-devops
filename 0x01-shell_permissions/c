@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo 'insert file name'
+read filename
+chmod +x "${filename}"
+./"${filename}"
