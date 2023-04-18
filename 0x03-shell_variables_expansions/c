@@ -1,5 +1,0 @@
-#!/bin/bash
-echo ' input file name'
-read filename
-chmod +x "$filename"
-./"$filename"
