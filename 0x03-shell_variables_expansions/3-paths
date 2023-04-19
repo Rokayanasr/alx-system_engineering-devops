@@ -1,2 +1,2 @@
 #!/bin/bash
-DIR_COUNT=$(ls -l PATH|greb "^d"|wc -l)
+DIR_COUNT=$(ls -l PATH | greb "^d" | wc -l)
